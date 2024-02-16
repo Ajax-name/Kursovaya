@@ -1,0 +1,8 @@
+rootProject.name = 'HZ'
+include 'API'
+include 'Client'
+include 'Server'
+include 'API1'
+include 'Server'
+include 'Server'
+
